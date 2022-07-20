@@ -2,7 +2,7 @@
   "name": "sd-react-movie-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sandeepreddy-karri.github.io/sd-react-movie-app",
+  "homepage": "http://sandeepreddy-karri.github.io/sandeep-react-movie-app",
   "dependencies": {
     "axios": "^0.27.2",
     "react": "^18.2.0",
